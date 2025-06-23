@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Opa, Eu sou o <a href="https://www.linkedin.com/in/lucas-matheus-613b4721a/"><i>Lucas Matheus</i></a> </h1>
+  <h1 align="center">Opa, Eu sou o <a href="https://www.linkedin.com/in/lucas-matheus-613b4721a/"><i>Lucas Marques</i></a> </h1>
   <p align="center">Estudante de ciencia da computaçao na Universidade Eripedes de Marilia (Univem)</p>
 </div>
 
