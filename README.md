@@ -8,7 +8,11 @@
 </p>
 
 <p align="left">
-  
+
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=dotnet&logoColor=512BD4)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=dotnet&logoColor=512BD4)
+
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=239120)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
