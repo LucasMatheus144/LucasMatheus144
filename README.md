@@ -3,7 +3,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">  
-  Calma que vvou me apresentar <strong>X</strong><br>.
+    Formado em Ciência da Computação, atuo como Analista de Sistemas Pleno na Interfocus Tecnologia, onde concentro meus esforços no desenvolvimento de software, com destaque para minhas competências em C#, PostgreSQL.
+  Tenho experiência em trabalho colaborativo com equipes multidisciplinares, alinhando minhas habilidades técnicas às metas organizacionais e contribuindo para o crescimento e sucesso dos projetos.<br>
+    Sou motivado pela busca constante por aprimorar meus conhecimentos e desenvolver novas competências, mantendo-me atualizado com as melhores práticas do setor. Meu objetivo é promover inovações que agreguem valor, otimizem processos e impulsionem resultados de excelência para a equipe e a organização.
 </p>
 
 <p align="left">
